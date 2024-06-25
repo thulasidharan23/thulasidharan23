@@ -1,4 +1,4 @@
-
+[![MasterHead](https://www.canva.com/design/DAGJGv4tK7o/JfMSHGssiKcsXRneEID8kA/edit?utm_content=DAGJGv4tK7o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Thulasidharan R V</h1>
 <h3 align="center">A truly passionate Java Developer, who loves to Code!!🤖</h3>
 <img align="right" alt="Coding🤖" width="400" src="https://miro.medium.com/v2/resize:fit:800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
@@ -29,11 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thulasidharan23&show_icons=true&locale=en" alt="thulasidharan23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thulasidharan23&" alt="thulasidharan23" /></p>
-### My LeetCode
+My LeetCode
 
 ![](https://leetcard.jacoblin.cool/thulasidharan2003)
 
-Thanks! for Coming:heart:
+Thanks! for Coming:💙🤍
 
 ---
 
