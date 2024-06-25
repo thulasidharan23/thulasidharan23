@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGJGv4tK7o/JfMSHGssiKcsXRneEID8kA/edit?utm_content=DAGJGv4tK7o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+![MasterHead](https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg?w=1060&t=st=1719285256~exp=1719285856~hmac=bacff6a2317f92f9afcd321d2601ca300090a8f3d553550f1febee6451a692bf)
 <h1 align="center">Hi 👋, I'm Thulasidharan R V</h1>
 <h3 align="center">A truly passionate Java Developer, who loves to Code!!🤖</h3>
 <img align="right" alt="Coding🤖" width="400" src="https://miro.medium.com/v2/resize:fit:800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
