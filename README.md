@@ -10,7 +10,7 @@
 - 📫 How to reach me **thulasidharan2003@gmail.com**
 
 - 📄 Resume
-[https://drive.google.com/file/d/1bNa6aIiL_rK4rTmLyvzzzfax1hxlNhgl/view?usp=sharing](https://drive.google.com/file/d/1bNa6aIiL_rK4rTmLyvzzzfax1hxlNhgl/view?usp=sharing)
+[Click Me](https://drive.google.com/file/d/1HHeYRnVDvoWx_kPOTErHWpnS-XNfDXmJ/view?usp=drive_link)
 
 -  **Eat🍴! -Sleep💤!! -Code💻!!! -Repeat🔁!!!!**
 
